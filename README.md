@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-
+  ![image](https://user-images.githubusercontent.com/29213190/182004276-7ee5f5bd-6e45-4aa0-8385-825164ee9642.png)
 </p>
 
 ## :rocket: Technologies
