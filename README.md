@@ -46,7 +46,7 @@ This project was developed using the following technologies:
 
 ---
 
-Made with ♥ by Renato ROessler :wave: [Get in touch!](https://www.linkedin.com/in/renato-roessler-9b0b786b/)
+Made with ♥ by Renato Roessler :wave: [Get in touch!](https://www.linkedin.com/in/renato-roessler-9b0b786b/)
 
 [ts]: https://www.typescriptlang.org
 [vscode]: https://code.visualstudio.com/
